@@ -1,0 +1,125 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FinalProject.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\css\\lenny-20f32b.webflow.bcdd1a12e.css",
+      "PackagePath": "staticwebassets\\assets\\css\\lenny-20f32b.webflow.bcdd1a12e.css"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\6555b9b707f065dd00bea84b_image8.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\6555b9b707f065dd00bea84b_image8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\6555b9b707f065dd00bea84e_image17.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\6555b9b707f065dd00bea84e_image17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\6555b9b707f065dd00bea851_image7.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\6555b9b707f065dd00bea851_image7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\6555b9b707f065dd00bea854_image4.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\6555b9b707f065dd00bea854_image4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\6555b9b707f065dd00bea858_image2.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\6555b9b707f065dd00bea858_image2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\65582b9dac631f19843a57f3_image 4.png",
+      "PackagePath": "staticwebassets\\assets\\image\\65582b9dac631f19843a57f3_image 4.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\6558c87387a5a72a40481c2f_logo-icon.png",
+      "PackagePath": "staticwebassets\\assets\\image\\6558c87387a5a72a40481c2f_logo-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\6558c9724f2f3a8d3765d0b9_logo256.png",
+      "PackagePath": "staticwebassets\\assets\\image\\6558c9724f2f3a8d3765d0b9_logo256.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\655b48691f17199893fdc322_Untitled-1 2.png",
+      "PackagePath": "staticwebassets\\assets\\image\\655b48691f17199893fdc322_Untitled-1 2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\655b486932496f2b2ee04d2d_Untitled-1 2-3.png",
+      "PackagePath": "staticwebassets\\assets\\image\\655b486932496f2b2ee04d2d_Untitled-1 2-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\655b486995abd34586147a3f_Untitled-1 2-1.png",
+      "PackagePath": "staticwebassets\\assets\\image\\655b486995abd34586147a3f_Untitled-1 2-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\655b4869cc754248abe42bcc_Untitled-1 2-2.png",
+      "PackagePath": "staticwebassets\\assets\\image\\655b4869cc754248abe42bcc_Untitled-1 2-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\65647285743589fcb11427b2_s 1.png",
+      "PackagePath": "staticwebassets\\assets\\image\\65647285743589fcb11427b2_s 1.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\656472ee152de80a68a3e0a9_s 1 (1).png",
+      "PackagePath": "staticwebassets\\assets\\image\\656472ee152de80a68a3e0a9_s 1 (1).png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\6569a2b9d6018f8bee16d45c_keagan-henman-xPJYL0l5Ii8-unsplash.png",
+      "PackagePath": "staticwebassets\\assets\\image\\6569a2b9d6018f8bee16d45c_keagan-henman-xPJYL0l5Ii8-unsplash.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\6569a2dda8d446f6b8d0700e_no-revisions-kWVImL5QxJI-unsplash.png",
+      "PackagePath": "staticwebassets\\assets\\image\\6569a2dda8d446f6b8d0700e_no-revisions-kWVImL5QxJI-unsplash.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\65eea651ca00890dd41e8b63_hector-achautla-NCf_mwCXq4s-unsplash.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\65eea651ca00890dd41e8b63_hector-achautla-NCf_mwCXq4s-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\65eea6af66cb99503d3f10c5_kiran-ck-LSNJ-pltdu8-unsplash.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\65eea6af66cb99503d3f10c5_kiran-ck-LSNJ-pltdu8-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\65eea7110a440ab8f8ffd94f_md-salman-tWOz2_EK5EQ-unsplash.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\65eea7110a440ab8f8ffd94f_md-salman-tWOz2_EK5EQ-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\65eea75ee020cd817cd492cc_igor-karimov-M1nZU61xTK4-unsplash.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\65eea75ee020cd817cd492cc_igor-karimov-M1nZU61xTK4-unsplash.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\image\\65eec0864fd479f1cbcaa3c5_Screen Shot 2024-03-11 at 14.42.03.png",
+      "PackagePath": "staticwebassets\\assets\\image\\65eec0864fd479f1cbcaa3c5_Screen Shot 2024-03-11 at 14.42.03.png"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\jquery-3.5.1.min.dc5e7f18c8f601.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery-3.5.1.min.dc5e7f18c8f601.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\webflow.9494d98a4.js",
+      "PackagePath": "staticwebassets\\assets\\js\\webflow.9494d98a4.js"
+    },
+    {
+      "Id": "C:\\Users\\Acer\\OneDrive\\İş masası\\FinalProject\\FinalProject\\wwwroot\\assets\\js\\webfont.js",
+      "PackagePath": "staticwebassets\\assets\\js\\webfont.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalProject.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinalProject.props",
+      "PackagePath": "build\\FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalProject.props",
+      "PackagePath": "buildMultiTargeting\\FinalProject.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinalProject.props",
+      "PackagePath": "buildTransitive\\FinalProject.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
